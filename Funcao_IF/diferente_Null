@@ -1,0 +1,15 @@
+const num =10;
+
+if (num !== null){
+ console.log('o número é ${num}');
+}
+/*
+Neste novo exemplo, o código dentro do bloco 
+if será executado normalmente, pois o resultado
+ da expressão num !== null (ou seja, “o valor da
+variável num é diferente de null”) retorna true. */
+
+//A expressão acima também poderia ser escrita da seguinte forma:
+// if (num) {
+//     console.log(`o número é ${num}`);
+//    }
