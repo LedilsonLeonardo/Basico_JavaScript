@@ -8,3 +8,4 @@ console.log(
     A nota dessa aluna é ${listaDeAlunosEMedias[1][1]}.
     `
   );
+
